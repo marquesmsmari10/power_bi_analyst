@@ -60,37 +60,37 @@ O relatório foi estruturado em diferentes páginas para facilitar a navegação
 
 Apresentação do projeto e acesso às principais áreas do relatório.
 
-![Página inicial do relatório](./images/picture1.jpg)
+![Página inicial do relatório](./images/picture1.png)
 
 ### Visão principal
 
 Painel executivo com KPIs de vendas, unidades vendidas, descontos e custo dos produtos, além de análises por período, segmento, produto e país.
 
-![Visão principal do dashboard](./images/picture2.jpg)
+![Visão principal do dashboard](./images/picture2.png)
 
 ### Detalhes de vendas
 
 Análise detalhada por semestre, trimestre, unidades vendidas e produto, com apoio de tabelas, gráficos de barras e histograma.
 
-![Detalhes de vendas](./images/picture3.jpg)
+![Detalhes de vendas](./images/picture3.png)
 
 ### Análise de dados
 
 Página dedicada à análise de relações entre unidades vendidas, vendas e lucro, além da comparação entre países e produtos.
 
-![Análise de dados](./images/picture4.jpg)
+![Análise de dados](./images/picture4.png)
 
 ### Produtos mais vendidos
 
 Identificação dos produtos com maior volume de vendas e comparação do desempenho dos principais produtos por país e ao longo do tempo.
 
-![Produtos mais vendidos](./images/picture5.jpg)
+![Produtos mais vendidos](./images/picture5.png)
 
 ### Categorias e clusters
 
 Análise de clusters, continentes, países, segmentos e evolução das vendas por mês e semestre.
 
-![Categorias e clusters](./images/picture6.jpg)
+![Categorias e clusters](./images/picture6.png)
 
 
 
@@ -115,23 +115,6 @@ O projeto também considerou princípios de organização visual e experiência 
 3. Caso necessário, atualize os caminhos das fontes de dados.
 4. Navegue pelas páginas do relatório utilizando o menu superior.
 5. Interaja com os filtros, gráficos e indicadores para explorar os resultados.
-
----
-
-## 📁 Estrutura Sugerida do Repositório
-
-```text
-📦 projeto-power-bi
- ┣ 📂 images
- ┃ ┣ 🖼️ picture1.jpg
- ┃ ┣ 🖼️ picture2.jpg
- ┃ ┣ 🖼️ picture3.jpg
- ┃ ┣ 🖼️ picture4.jpg
- ┃ ┣ 🖼️ picture5.jpg
- ┃ ┗ 🖼️ picture6.jpg
- ┣ 📊 relatorio-financeiro.pbix
- ┗ 📄 README.md
-```
 
 ---
 
